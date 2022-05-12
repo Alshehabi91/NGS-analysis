@@ -1,0 +1,4 @@
+Euro country
+France
+Germany
+
